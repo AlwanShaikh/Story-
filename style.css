@@ -28,7 +28,7 @@ nav ul li a {
 }
 
 .hero {
-    background: url('images//storage/emulated/0/Pictures/hero.jpg') no-repeat center center/cover;
+    background: white;
     color: black;
     padding: 50px 20px;
 }
